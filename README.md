@@ -37,7 +37,7 @@ Il s’agit avant tout d’une préparation à l’entrée dans le monde du trav
 - Quand la variable pièce est égale à 4, les 4 morceaux du Mario se rassemblent (transposition des coordonnées x et y)
 - Activer la caméra et la musique au démarrage du jeu
 - Affecter le mouvement de la caméra à chaque morceau du Mario (avec le déplacement)
-- Bloquer la rotation des sprites du Mario
+- Bloquer la rotation des morceaux du Mario
 ####BONUS
 - Eteindre la caméra
 - Message de victoire
