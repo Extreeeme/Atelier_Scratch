@@ -1,6 +1,6 @@
 #LA FABRIK
 
-La Fabrik est une initiative créée en 2017 par l’association FACE Bourbonnais. Elle consiste en la formation de 23 apprenants à la formation web, aux profils hétéroclites, issus de différents horizons, milieu sociaux, et âges, dans le cœur du foyer périurbain moulinois.
+La Fabrik est une initiative créée en 2016 par l’association FACE Bourbonnais. Elle consiste en la formation de 23 apprenants à la formation web, aux profils hétéroclites, issus de différents horizons, milieu sociaux, et âges, dans le cœur du foyer périurbain moulinois.
 
 Il s’agit avant tout d’une préparation à l’entrée dans le monde du travail. En effet, cette formation n’est pas certifiée par un diplôme, mais permet de nous introduire dans l’univers de la programmation web.
 
@@ -26,7 +26,6 @@ Il s’agit avant tout d’une préparation à l’entrée dans le monde du trav
 
 ##Déroulement de l'atelier
 
-- Importer les sprites et la musique du jeu
 - Placer les sprites sur l'espace de travail (capteurs, croix et Mario)
 - Donner la propriété fantôme au mario complet
 - Création de la variable pièce
